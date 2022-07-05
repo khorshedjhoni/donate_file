@@ -1,0 +1,78 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.first-banner{
+    background-image: url(images/donation7a.jpg) ;
+   
+   
+}
+
+h1{
+    font-size: 40px;
+    
+}
+.color-white{
+    color: white;
+}
+.text-center{
+    padding: 50px 500px;
+    text-align: center;
+}
+.orange-button{
+    padding: 10px 20px;
+    background-color: #FF5959;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+}
+.tk-amount{
+    display: inline-block;
+    padding: 2%;
+    box-shadow: 2px 2px 50px #F0EAD6
+    
+}
+#colour-amount{
+    color: #FF5959;
+    border: 2px solid orangered;
+    background-color:#FFEEEE;
+}
+.opacity{
+    opacity: 0.4;
+}
+.donate-chart{
+    display: flex;
+    width: 80%;
+    padding-left: 200px;
+   
+}
+.third-width{
+    padding-left: 10px;
+    padding-top: 30px;
+    width: 33%;
+    
+}
+#food{
+    background: #4f9da61a;
+   
+}
+#shelter{
+    background: #ff59591a;;
+}
+#education{
+    background:wheat ;
+}
+#mail-box{
+    background:wheat;
+   
+    
+}
+.footer-orange{
+    color: #FF5959;
+}
+h6{
+    color: white;
+}
+#footer-background{
+    background-color: black;
+}
