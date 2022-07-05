@@ -62,10 +62,15 @@ h1{
 #education{
     background:wheat ;
 }
-#mail-box{
+.mail-box{
     background:wheat;
-   
-    
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+
 }
 .footer-orange{
     color: #FF5959;
@@ -75,4 +80,15 @@ h6{
 }
 #footer-background{
     background-color: black;
+   padding-top: 5px;
+   padding-bottom: 5px;
+    
+}
+#mail{
+   background-color:#dbd7d2;
+    padding: 5px 10px;
+}
+span{
+    background-color: #FF5959;
+    padding: 5px 10px;
 }
