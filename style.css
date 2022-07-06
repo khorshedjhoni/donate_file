@@ -97,6 +97,8 @@ h1{
 }
 .footer-orange{
     color: #FF5959;
+    
+   
 }
 h6{
     color: white;
@@ -113,7 +115,7 @@ h6{
 }
 span{
     background-color: #FF5959;
-    padding: 5px 10px;
+    padding: 4px 10px;
 }
 section{
     padding-top: 50px;
