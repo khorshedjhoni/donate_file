@@ -1,6 +1,7 @@
 body{
     font-family: 'Oswald', sans-serif;
     font-family: 'Poppins', sans-serif;
+    
 }
 .first-banner{
     background-image: url(images/donation7a.jpg) ;
@@ -38,9 +39,10 @@ h1{
     background-color:#FFEEEE;
 }
 .opacity{
+  
     opacity: 0.4;
 }
-.donate-chart{
+.flex-container{
     display: flex;
     width: 80%;
     padding-left: 200px;
@@ -54,13 +56,34 @@ h1{
 }
 #food{
     background: #4f9da61a;
+    margin-right: 10px;
+    border-radius: 5px;
    
 }
 #shelter{
-    background: #ff59591a;;
+    background: #ff59591a;
+    margin-right: 10px;
+    border-radius: 5px;
 }
 #education{
     background:wheat ;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+ 
+#become-volunteer{
+    background-color: #F5F5DC;
+    padding-bottom: 15px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+#donation-prcess{
+    background-image: url(images/donateus2.jpg);
+    background-repeat: no-repeat;
+    text-align:left;
+    margin-right: 10px;
+    border-radius: 5px;
+
 }
 .mail-box{
     background:wheat;
@@ -80,15 +103,18 @@ h6{
 }
 #footer-background{
     background-color: black;
-   padding-top: 5px;
-   padding-bottom: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     
 }
 #mail{
-   background-color:#dbd7d2;
+    background-color:#dbd7d2;
     padding: 5px 10px;
 }
 span{
     background-color: #FF5959;
     padding: 5px 10px;
+}
+section{
+    padding-top: 50px;
 }
